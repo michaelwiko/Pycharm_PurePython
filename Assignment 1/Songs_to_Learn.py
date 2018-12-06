@@ -56,3 +56,4 @@ learned_song = []
 data = []
 main_name = name(name)
 menu()
+menu()
